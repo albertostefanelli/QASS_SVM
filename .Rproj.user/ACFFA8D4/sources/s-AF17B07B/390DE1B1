@@ -1,0 +1,32 @@
+{
+    "id": "390DE1B1",
+    "path": "~/github_projects/QASS_SVM/manuscript/assignment.Rmd",
+    "project_path": "manuscript/assignment.Rmd",
+    "type": "r_markdown",
+    "hash": "1578410874",
+    "contents": "",
+    "dirty": false,
+    "created": 1654193036994.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled2",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "147,296",
+        "scrollLine": "108",
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "1",
+        "rmdVisualModeLocation": "0:0",
+        "rmdVisualCollapsedChunks": ""
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1654240889,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1654240889813,
+    "read_only": false,
+    "read_only_alternatives": []
+}
